@@ -54,7 +54,7 @@ Passionate about software development, problem-solving, and continuous learning.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fpython-logo.html&psig=AOvVaw1QQ4IcSSxUVqIKKqZ6SDiD&ust=1756864623775000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOD5qfD8uI8DFQAAAAAdAAAAABAE" height="220" alt="streak graph"  />
 </div>
 
 ###
